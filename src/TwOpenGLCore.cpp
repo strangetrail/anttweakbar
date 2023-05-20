@@ -13,10 +13,8 @@
 #include <GL3/gl3.h>            ////
 #define ANT_OGL_HEADER_INCLUDED ////
 */
-#pragma warning GL
 #define GL_GLEXT_PROTOTYPES
 #include <GL/gl.h>
-#define ANT_OGL_HEADER_INCLUDED
 
 #include "TwPrecomp.h"
 #include "TwOpenGLCore.h"
